@@ -1,0 +1,7 @@
+Key enhancement proposed include:
+
+•	Libgen Search Plugin: 
+Facility to search the e-books in Libgen database to enable IPFS handles which anybody can use to download or streaming e-books using decentralized IPFS technology to improve access and availability of resources 
+of e-books.
+•	Remote Connection Plugin: 
+It should be able to manage e-books and any remote control over the reading status of the current book. It should be possible to update the reading status like Read, Want to Read, Reading, Completed and apply them away, get the book's data from the e-book list stored IPFS JSON file, and clear the data when disconnected to be possible to make other new connections. This means such as the addition of a new or remove an extra book should be reflected in the changes made to the IPFS JSON file. This permits users to synchronize their data, also User 2 can be able to open the books directly in Calibre by double-clicking the list entries, the status could be edited and saved.
